@@ -157,9 +157,9 @@ header {
 .boxes {
     text-align: center;
     width: 250px;
-    height: 250px;
+    height: 260px;
     border: 2px solid white;
-    padding: 40px;
+    padding: 35px;
     margin: 10px;
     background-color: white;
     border-radius: 5px;
